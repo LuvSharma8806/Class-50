@@ -1,0 +1,24 @@
+h1{
+    
+    color:red ;
+}
+
+*{
+    color:blue ;
+}
+
+.Header{
+    background-color: cornflowerblue;
+    display: flex;
+    justify-content: space-between;
+}
+
+/*.Footer{
+    background-color: darkgoldenrod;   
+}*/
+
+.grid{
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
